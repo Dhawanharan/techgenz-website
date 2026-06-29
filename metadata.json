@@ -1,0 +1,6 @@
+{
+  "name": "TechGenZ Website",
+  "description": "Premium digital showcase and administrative dashboard for the elite TechGenZ university innovation team, featuring competition milestones, IoT/software prototypes, live event photos, and member profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
