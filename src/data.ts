@@ -78,7 +78,7 @@ export const INITIAL_SQUAD: TeamMember[] = [
     role: 'Co-Founder',
     currentStatus: 'BSc in Computer Science (UG)',
     avatar: '/assets/squard/dhawan.jpg?auto=format&fit=crop&w=300&h=300&q=80',
-    skills: ['HCI', 'Web Design', 'QA'],
+    skills: ['HCI', 'Web Design', 'QA', 'IT Support-Cisco Certified'],
     github: 'https://github.com/dhawanharan',
     linkedin: 'https://linkedin.com/in/dhawanharan',
     behance: 'https://behance.net/dhawanharan'
@@ -95,13 +95,13 @@ export const INITIAL_SQUAD: TeamMember[] = [
   },
   {
     id: 'member-4',
-    name: 'Dilushan',
+    name: 'Dilushan Mehavannan',
     role: 'Member',
-    currentStatus: 'BSc in Physical Science (UG)',
-    avatar: '#',
-    skills: ['Frontend', 'React', 'Tailwind'],
-    github: 'https://github.com',
-    linkedin: 'https://linkedin.com'
+    currentStatus: 'B.Sc Applied Physics and Electronics (UG), BIT (External)',
+    avatar: '/assets/squard/dilushan.jpeg?auto=format&fit=crop&w=300&h=300&q=80',
+    skills: ['C#', 'Aurdino', 'Wireshark'],
+    github: 'https://github.com/Dilushan-Mehavannan',
+    linkedin: 'https://www.linkedin.com/in/dilushan-mehavannan'
   },
   {
     id: 'member-5',
@@ -117,7 +117,7 @@ export const INITIAL_SQUAD: TeamMember[] = [
     id: 'member-6',
     name: 'Nithuja',
     role: 'Member',
-    currentStatus: 'BSc in Physical Science (UG)',
+    currentStatus: 'B.Sc Applied Physics and Electronics (UG)',
     avatar: '#',
     skills: ['Hardware', 'IoT', 'C++'],
     github: 'https://github.com',
