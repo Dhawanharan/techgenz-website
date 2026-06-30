@@ -67,7 +67,7 @@ export const INITIAL_SQUAD: TeamMember[] = [
     name: 'Amshayan Bhavananthan',
     role: 'Founder',
     currentStatus: 'BSc in Computer Science (UG)',
-    avatar: '#',
+    avatar: '/assets/squard/amshayan.png?auto=format&fit=crop&w=300&h=300&q=80',
     skills: ['Strategy', 'Leadership', 'Product'],
     github: 'https://github.com',
     linkedin: 'https://linkedin.com'
@@ -78,7 +78,7 @@ export const INITIAL_SQUAD: TeamMember[] = [
     role: 'Co-Founder',
     currentStatus: 'BSc in Computer Science (UG)',
     avatar: '/assets/squard/dhawan.jpg?auto=format&fit=crop&w=300&h=300&q=80',
-    skills: ['HCI', 'Web Design', 'QA', 'IT Support-Cisco Certified'],
+    skills: ['IT Support-Cisco Certified', 'React', 'Java', 'Python', 'C++', 'Node js', 'MongoDB', 'Git', 'Figma'],
     github: 'https://github.com/dhawanharan',
     linkedin: 'https://linkedin.com/in/dhawanharan',
     behance: 'https://behance.net/dhawanharan'
@@ -88,8 +88,8 @@ export const INITIAL_SQUAD: TeamMember[] = [
     name: 'Tharshan Atpudharasu',
     role: 'Co-Founder',
     currentStatus: 'BSc in Computer Science (UG)',
-    avatar: '#',
-    skills: ['Design', 'UI', 'Operations'],
+    avatar: '/assets/squard/tharshan.png?auto=format&fit=crop&w=300&h=300&q=80',
+    skills: ['Java', 'AI', 'Flutter', 'Figma'],
     github: 'https://github.com/tharshanofficial',
     linkedin: 'https://linkedin.com/in/tharshanofficial'
   },
@@ -99,28 +99,28 @@ export const INITIAL_SQUAD: TeamMember[] = [
     role: 'Member',
     currentStatus: 'B.Sc Applied Physics and Electronics (UG), BIT (External)',
     avatar: '/assets/squard/dilushan.jpeg?auto=format&fit=crop&w=300&h=300&q=80',
-    skills: ['C#', 'Aurdino', 'Wireshark'],
+    skills: ['C#', 'Aurdino', 'Wireshark', 'C++', 'PCB designing and fabrication', 'IOT'],
     github: 'https://github.com/Dilushan-Mehavannan',
     linkedin: 'https://www.linkedin.com/in/dilushan-mehavannan'
   },
   {
     id: 'member-5',
-    name: 'Rajeen',
+    name: 'mohammed Rajeen',
     role: 'Member',
     currentStatus: 'BSc in Computer Science (UG)',
-    avatar: '#',
-    skills: ['Backend', 'Node.js', 'MongoDB'],
-    github: 'https://github.com',
-    linkedin: 'https://linkedin.com'
+    avatar: '/assets/squard/rajeen.jpeg?auto=format&fit=crop&w=300&h=300&q=80',
+    skills: ['Arduino', 'Python', 'Django', 'C++', 'Java', 'Node Js', 'Angular Js', 'C', 'Hardware', '3D Simulations (Robotics)', 'IOT'],
+    github: 'https://github.com/SMRajeen',
+    linkedin: 'https://linkedin.com/in/mohammed-rajeen-4237b3254'
   },
   {
     id: 'member-6',
-    name: 'Nithuja',
+    name: 'Nithusha Sathasivam',
     role: 'Member',
     currentStatus: 'B.Sc Applied Physics and Electronics (UG)',
-    avatar: '#',
-    skills: ['Hardware', 'IoT', 'C++'],
+    avatar: '/assets/squard/nithusha.jpeg?auto=format&fit=crop&w=300&h=300&q=80',
+    skills: ['Python', 'HTML', 'Microsoft office suite Basic AI tool', 'Hardware testing'],
     github: 'https://github.com',
-    linkedin: 'https://linkedin.com'
+    linkedin: 'https://linkedin.com/in/sathasivam-nithusha-288b763a9'
   }
 ];
