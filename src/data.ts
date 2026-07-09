@@ -105,7 +105,7 @@ export const INITIAL_SQUAD: TeamMember[] = [
   },
   {
     id: 'member-5',
-    name: 'mohammed Rajeen',
+    name: 'Mohammed Rajeen',
     role: 'Member',
     currentStatus: 'BSc in Computer Science (UG)',
     avatar: '/assets/squard/rajeen.jpeg?auto=format&fit=crop&w=300&h=300&q=80',
